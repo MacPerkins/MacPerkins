@@ -23,7 +23,7 @@ I'm Matthew Perkins, a student at Brigham Young University-Idaho interested in S
 
 ## Let's Connect!
 
-- Here is my [www.linkedin.com/in/mperkins-sdev101] LinkedIn profile [![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]()
+- Here is my [LinkedIn profile](www.linkedin.com/in/mperkins-sdev101) [![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]()
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
 
