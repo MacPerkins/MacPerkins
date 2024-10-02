@@ -6,13 +6,12 @@ I'm Matthew Perkins, a student at Brigham Young University-Idaho interested in S
 
 ## About Me
 
-- I'm currently learning ...
-- My goals are to ...
-- Ask me about ...
+- I'm currently learning about React and Next.js to improve my full-stack development skills.
+- My goals are to become proficient in full-stack development.
 
 ## Technologies and Tools
 
-- Proficient in: <List of Programming Languages or Technologies>
+- Proficient in: Python, Javascript, HTML & CSS, Node, and C++.
 - Skills: <Any Other Skills or Tools You Want to Highlight>
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
