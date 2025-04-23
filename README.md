@@ -2,7 +2,7 @@
 
 Hello, GitHub! 👋
 
-I'm Matthew Perkins, a student at Brigham Young University-Idaho interested in Software Development, Specifically Full-Stack Development. Welcome to my GitHub profile!
+I'm Matthew Perkins, a graduate from BYU-I (April 2025) with a major in Software Development. My experience and focus is on full-stack development. Welcome to my GitHub profile!
 
 ## About Me
 
@@ -23,7 +23,7 @@ I'm Matthew Perkins, a student at Brigham Young University-Idaho interested in S
 
 ## Let's Connect!
 
-- Here is my [LinkedIn profile](www.linkedin.com/in/macperkins)
+- Here is my [LinkedIn profile](https://www.linkedin.com/in/macperkins/)
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
 
